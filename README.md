@@ -6,7 +6,7 @@ This project is an end-to-end **Retrieval-Augmented Generation (RAG)** chatbot p
 
 ## 📸 Preview
 
-![Chat UI Preview](preview.png) <!-- Replace with your screenshot file if available -->
+![image](https://github.com/user-attachments/assets/ddb320aa-63ea-4f55-8aaa-e3dc3d670d7c)
 
 ---
 
