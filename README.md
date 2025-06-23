@@ -1,6 +1,3 @@
-## 📄 `README.md`
-
-````markdown
 # 🤖 LLM-Based RAG Chatbot using LangChain
 
 This project is an end-to-end **Retrieval-Augmented Generation (RAG)** chatbot powered by **LangChain**, **OpenAI**, and a beautiful **Tailwind CSS** chat interface. It allows users to upload a PDF and chat with its contents in natural language.
@@ -54,7 +51,7 @@ This project is an end-to-end **Retrieval-Augmented Generation (RAG)** chatbot p
 ```bash
 git clone https://github.com/Gokul5001/LLM-Based-RAG-BOT-using-Langchain.git
 cd LLM-Based-RAG-BOT-using-Langchain
-````
+
 
 ### 2. Install Python Dependencies
 
